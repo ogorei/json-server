@@ -1,0 +1,36 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"category": "NEWS",
+			"userId": 123,
+			" images": [
+				"https://toimg.fdcp.co.jp/Contents/ProductSubImages/0/142216123006_sub10_LL.jpg",
+				"https://toimg.fdcp.co.jp/Contents/ProductSubImages/0/142216123006_sub10_LL.jpg"
+			],
+			"brandAvatar": "https://kanteikyoku-web.jp/wp/wp-content/uploads/2021/01/5.png",
+			"cardImage": "https://toimg.fdcp.co.jp/Contents/ProductSubImages/0/142216123006_sub10_LL.jpg",
+			"title": " 愛されるピアス",
+			" date": "2020.23.22",
+			" staffName": "Yoko Tanaka",
+			"storeName": "銀座店",
+			"content": " '私も当時いったんその経過方として事の所でしですた。私も当時いったんその経過方として事の所で私も当時いったんその経過方として事の所でしですた。もっともほかへしですた。もっともほかへもっともほかへごろごろ共はもうその満足ででしだけがとりがしまいたには意見云っでなて、始終にもしませたでしょた。町内にとりでしのはもっと場合にもしますたです'"
+		},
+        {
+			"id": 2,
+			"category": "コラム",
+			"userId": 122,
+			" images": [
+				"https://toimg.fdcp.co.jp/Contents/ProductSubImages/0/142216123006_sub10_LL.jpg",
+				"https://toimg.fdcp.co.jp/Contents/ProductSubImages/0/142216123006_sub10_LL.jpg"
+			],
+			"brandAvatar": "https://kanteikyoku-web.jp/wp/wp-content/uploads/2021/01/5.png",
+			"cardImage": "https://toimg.fdcp.co.jp/Contents/ProductSubImages/0/142216123006_sub10_LL.jpg",
+			"title": " 愛されるピアス",
+			" date": "2020.23.22",
+			" staffName": "Yoko Tanaka",
+			"storeName": "銀座店",
+			"content": " '私も当時いったんその経過方として事の所でしですた。私も当時いったんその経過方として事の所で私も当時いったんその経過方として事の所でしですた。もっともほかへしですた。もっともほかへもっともほかへごろごろ共はもうその満足ででしだけがとりがしまいたには意見云っでなて、始終にもしませたでしょた。町内にとりでしのはもっと場合にもしますたです'"
+		}
+	]
+}
